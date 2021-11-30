@@ -1,5 +1,5 @@
- ## 👋 Hello, we're VARDIAN!
-VARDIAN is a humble security company with the goal of helping organizations of all shapes and sizes from threats.
+ ## 👋 Hello, World!
+We're VARDIAN! A humble security company with the goal of helping organizations of all shapes and sizes from threats.
 
 We're a small team, but we're also a group of passionate security practitioners looking to help.
 
